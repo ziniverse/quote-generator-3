@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ziniverse/quote-generator-3/static/css/main.1e508399.css",
+    "main.js": "/ziniverse/quote-generator-3/static/js/main.e62193cf.js",
+    "static/js/787.0779995b.chunk.js": "/ziniverse/quote-generator-3/static/js/787.0779995b.chunk.js",
+    "index.html": "/ziniverse/quote-generator-3/index.html",
+    "main.1e508399.css.map": "/ziniverse/quote-generator-3/static/css/main.1e508399.css.map",
+    "main.e62193cf.js.map": "/ziniverse/quote-generator-3/static/js/main.e62193cf.js.map",
+    "787.0779995b.chunk.js.map": "/ziniverse/quote-generator-3/static/js/787.0779995b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e508399.css",
+    "static/js/main.e62193cf.js"
+  ]
+}
